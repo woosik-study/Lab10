@@ -12,4 +12,4 @@ GA4 Measurement ID: G-TK5SQV5KYM
 
 GTM Container ID: GTM-P89P2MX3
 
-![GA4 Realtime Screenshot](google-analytics.png)
+![GA4 Realtime Screenshot](screenshots/google-analytics.png)
